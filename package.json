@@ -1,0 +1,12 @@
+{
+  "name": "kasir-os",
+  "version": "1.0.0",
+  "main": "build-preview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
